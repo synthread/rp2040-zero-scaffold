@@ -1,0 +1,3 @@
+defaultRegistry: ghcr
+image: synthread/rp2040-zero-scaffold:master
+arch: amd64
